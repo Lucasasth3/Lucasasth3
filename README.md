@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/Lucasasth3">
     <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Lucasasth3&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lucasasth3&layout=compact&langs_count=16&theme=dark" />
+    <img height="141em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lucasasth3&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
 
